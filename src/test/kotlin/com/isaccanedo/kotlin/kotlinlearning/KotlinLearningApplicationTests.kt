@@ -1,4 +1,4 @@
-package com.techprimers.kotlin.kotlinlearning
+package com.isaccanedo.kotlin.kotlinlearning
 
 import org.junit.Test
 import org.junit.runner.RunWith

@@ -1,4 +1,4 @@
-package com.techprimers.kotlin.kotlinlearning
+package com.isaccanedo.kotlin.kotlinlearning
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
