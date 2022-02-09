@@ -1,3 +1,3 @@
-# Aplicativo Spring Boot usando Kotlin
+# Aplicação Spring Boot usando Kotlin
 
 
